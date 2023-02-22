@@ -1,0 +1,9 @@
+{
+	"name": "AzureADFSrinidhi",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "24705f63-1e24-492f-b5fb-8024938ff544",
+		"tenantId": "03028dc4-862c-49d9-bb0e-a3fc50b59320"
+	}
+}

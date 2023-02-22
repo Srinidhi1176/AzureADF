@@ -1,0 +1,12 @@
+{
+	"name": "ls_move",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=srinidhisa;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDYwRDA5MjJDLTg4QzAtNDdBNC05NjVELThCMTU0RDZCQjE4QV82YzlhNzg5My1jZGI2LTQwODgtOWM1MC0yODI1ZjJhNWY5OWUiDQp9"
+		}
+	}
+}
